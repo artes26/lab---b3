@@ -7,7 +7,7 @@ Welcome to “Introduction to Computer Laboratory”
 Java is fun for All !!
 
  */
-public class Q1
+class Q1
 {
     public static void main(String[] args)
     {
